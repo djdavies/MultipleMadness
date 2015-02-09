@@ -8,4 +8,4 @@ A Scratch game - ported to Android
 * Timestables game space.sb2 in "Scratch Script"
 * click the mainmenu button,
 * then click the 'i' button
-* _make sure 'show' is checked -- then it'll start
+* _make sure 'show' is checked_ -- then it'll start
