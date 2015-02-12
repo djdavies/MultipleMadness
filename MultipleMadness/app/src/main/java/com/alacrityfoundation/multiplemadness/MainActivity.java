@@ -18,7 +18,7 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
 
         WebView wv = (WebView)findViewById(R.id.webView);
-        wv.loadUrl("http://phosphorus.github.io/app.html?id=47166710&turbo=false&full-screen=true");
+        wv.loadUrl("http://phosphorus.github.io/app.html?id=47729710&turbo=false&full-screen=true");
         wv.setWebViewClient(new CustomWebViewClient());
         wv.getSettings().setJavaScriptEnabled(true);
 
