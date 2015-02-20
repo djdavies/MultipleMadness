@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Donegal One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Donegal One'), local('DonegalOne-Regular'), url(http://fonts.gstatic.com/s/donegalone/v4/LIom94sU9XlcGbVvjBz0oJ0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Gloria Hallelujah';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Gloria Hallelujah'), local('GloriaHallelujah'), url(http://fonts.gstatic.com/s/gloriahallelujah/v7/CA1k7SlXcY5kvI81M_R28Y7PgI6IeGWgqdOlp0TQlJM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Mystery Quest';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Mystery Quest'), local('MysteryQuest'), url(http://fonts.gstatic.com/s/mysteryquest/v4/467jJvg0c7HgucvBB9PLDzmuEnbvkdF7vjbeHX60E38.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Permanent Marker';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Permanent Marker'), local('PermanentMarker'), url(http://fonts.gstatic.com/s/permanentmarker/v5/9vYsg5VgPHKK8SXYbf3sMrg27BfaRSB61e9iDGqjWqk.ttf) format('truetype');
+}
